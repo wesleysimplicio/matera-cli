@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "matera-cli"
+version = "0.1.0"
+description = "CLI para API Matera Edge Services — pagamentos, conta, transações, PIX"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[project.scripts]
+matera = "matera.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["matera*"]

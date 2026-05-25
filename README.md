@@ -1,4 +1,4 @@
-![Matera CLI — resumo visual do README](https://d2p7pg.cachecloud.net/output/2c2dddb9-c6c6-4129-a126-ba49c542f45a-u2_a4f963bd-0c72-44b2-8b3d-ef7ff0abe13e.jpeg)
+![Matera CLI — hero editorial com referência aos 7 projetos financeiros](https://d2p7pg.cachecloud.net/output/cb4bd4b1-359f-4f9e-8a63-c99c3ea0d7f3-u2_dee34e58-b01c-4f7e-b713-4bea010a1b02.jpeg)
 
 # Matera CLI 🏦
 

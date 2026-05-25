@@ -1,4 +1,4 @@
-![Matera CLI — hero editorial com referência aos 7 projetos financeiros](https://d2p7pg.cachecloud.net/output/cb4bd4b1-359f-4f9e-8a63-c99c3ea0d7f3-u2_dee34e58-b01c-4f7e-b713-4bea010a1b02.jpeg)
+![Matera CLI — hero com identidade da empresa e integrações com agentes](https://d2p7pg.cachecloud.net/output/5c318bfb-f256-40e8-8236-db06f66dc8b0-u1_d0afbfe4-2db1-4772-a159-b202e041e1ed.jpeg)
 
 # Matera CLI 🏦
 
